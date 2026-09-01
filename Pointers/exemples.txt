@@ -1,0 +1,6 @@
+a      = 111
+&a     = address of a (ex: 0x1000)
+
+ptr    = 0x1000
+*ptr   = 111
+&ptr   = address of ptr (ex: 0x2000)
